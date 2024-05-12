@@ -10,6 +10,6 @@
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "chaxx@88.com"
+    "url": "mailto:chaxx@88.com"
   }
 ]
